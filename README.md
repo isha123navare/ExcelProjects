@@ -1,4 +1,4 @@
-# ExcelProjects
+# Excel Projects
 
 # Project 1: Blinkit Analysis & Interactive Dashboard
 
