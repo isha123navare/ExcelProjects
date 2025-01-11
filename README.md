@@ -94,62 +94,95 @@ Average sales per transaction is $141, with a high customer satisfaction rating 
 
 # Project 2: Analysis of Coffee Sales
 
-Dataset Link:
+**Dataset Link:**
 https://docs.google.com/spreadsheets/d/1SRksdZ_qAt2KSad7vz9UZx8OCYf3H6On/edit?usp=sharing&ouid=117667187169577427146&rtpof=true&sd=true
-Dataset Contains:
+
+**Dataset Contains:**
 Order ID, Order Date, Customer ID, Product ID, Quantity, Customer Name, Email, Country, Coffee Type, Roast Type, Size, Unit Price, Sales, Coffee Type Name, Roast Type Name, Loyalty Card.
-Worked On:
-1. Dashboard Layout and Structure
-Created an interactive sales dashboard in Excel.
-Organized the dashboard into sections to enable effective visualization:
-Header Section:
-Title: Coffee Sales Dashboard
-Filters for dynamic analysis, including:
-Order Date with a timeline slicer (monthly granularity for 2019–2022).
-Roast Type Name (Dark, Light, Medium).
-Size (0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg).
-Loyalty Card status (Yes/No).
-Visualizations Section: Includes sales trends, country-wise sales, and customer data.
-2. Filters and Interactivity
+
+## Worked On:
+
+**1. Dashboard Layout and Structure**
+
+1. Created an interactive sales dashboard in Excel.
+
+2. Organized the dashboard into sections to enable effective visualization:
+
+       a. Header Section:
+ 
+              Title: Coffee Sales Dashboard
+
+               Filters for dynamic analysis, including: Order Date with a timeline slicer (monthly granularity for 2019–2022); Roast Type Name (Dark, Light, Medium); Size (0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg); Loyalty Card status (Yes/No).
+
+        b. Visualizations Section: Includes sales trends, country-wise sales, and customer data.
+   
+**2. Filters and Interactivity**
+
 Enabled slicers for:
-Date-based filtering (by month and year).
-Roast Type Name for segment analysis.
-Coffee Size to analyze sales performance by packaging size.
-Loyalty Card status to understand customer preferences.
-3. Visualizations Created
-Total Sales Over Time:
-Created a multi-line graph to display sales trends for different coffee types (Arabica, Excelsa, Liberica, Robusta) over the years (2019–2022).
+
+1. Date-based filtering (by month and year).
+2. Roast Type Name for segment analysis.
+3. Coffee Size to analyze sales performance by packaging size.
+4. Loyalty Card status to understand customer preferences.
+
+**3. Visualizations Created**
+
+1. Total Sales Over Time: Created a multi-line graph to display sales trends for different coffee types (Arabica, Excelsa, Liberica, Robusta) over the years (2019–2022).
 Included monthly data points for detailed trend analysis.
-Sales by Country:
-Developed a horizontal bar chart to compare total sales across countries.
+
+2. Sales by Country: Developed a horizontal bar chart to compare total sales across countries.
 Focused on key markets: United States, Ireland, and United Kingdom.
-Top 5 Customers:
-Created a horizontal bar chart to showcase the top customers based on sales amounts.
-4. Color Scheme and Formatting
-Applied a purple-themed color palette for consistency and visual appeal.
-Ensured contrast between data elements for clarity.
-Added borders and background shades to section headers for emphasis.
-5. Metrics Summarized
+
+3. Top 5 Customers: Created a horizontal bar chart to showcase the top customers based on sales amounts.
+
+**4. Color Scheme and Formatting**
+
+1. Applied a purple-themed color palette for consistency and visual appeal.
+
+2. Ensured contrast between data elements for clarity.
+
+3. Added borders and background shades to section headers for emphasis.
+
+**5. Metrics Summarized**
+
 Calculated total sales figures for each segment and displayed them in graphs:
-Total sales by country.
-Sales trends over time.
-Individual customer contributions.
+
+1. Total sales by country.
+
+2. Sales trends over time.
+
+3. Individual customer contributions.
 
 ## Key Insights & Observations
 
-1. Total Sales Over Time
+**1. Total Sales Over Time**
+
 Sales exhibit noticeable seasonality and spikes during certain months:
-Peaks observed for Arabica and Excelsa types in early 2021.
-Robusta had relatively steady, low sales compared to other types.
-2. Sales by Country
-The United States is the dominant market, contributing $35,639 to total sales.
-Ireland and the United Kingdom follow with $6,697 and $2,799, respectively.
-3. Top 5 Customers
-Allis Wilmore is the top customer, contributing $317 in total sales.
-The remaining top customers (Brenn Dundredge, Terri Farra, Don Cutter, and Don Flinliff) contribute between $278 and $307.
-4. Roast Type Insights
-Dark, Light, and Medium roasts show varied trends across months and years, indicating consumer preferences for roast types vary seasonally.
-5. Impact of Coffee Size
-Sales distributions across sizes can be further analyzed based on filter interactions (not explicitly visible in this static view).
-6. Loyalty Card Analysis
-While not explicitly shown here, the inclusion of loyalty card filtering can help identify the impact of loyalty programs on sales.
+
+1. Peaks observed for Arabica and Excelsa types in early 2021.
+
+2. Robusta had relatively steady, low sales compared to other types.
+
+**2. Sales by Country**
+   
+1. The United States is the dominant market, contributing $35,639 to total sales.
+
+2. Ireland and the United Kingdom follow with $6,697 and $2,799, respectively.
+   
+**3. Top 5 Customers**
+
+1. Allis Wilmore is the top customer, contributing $317 in total sales.
+
+2. The remaining top customers (Brenn Dundredge, Terri Farra, Don Cutter, and Don Flinliff) contribute between $278 and $307.
+   
+**4. Roast Type Insights**
+
+1. Dark, Light, and Medium roasts show varied trends across months and years, indicating consumer preferences for roast types vary seasonally.
+
+**5. Impact of Coffee Size**
+
+1. Sales distributions across sizes can be further analyzed based on filter interactions (not explicitly visible in this static view).
+   
+**6. Loyalty Card Analysis**
+
+1. While not explicitly shown here, the inclusion of loyalty card filtering can help identify the impact of loyalty programs on sales.
