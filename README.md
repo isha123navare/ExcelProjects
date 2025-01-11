@@ -14,15 +14,14 @@ Item Fat Content, Item Identifier, Item Type, Outlet Establishment Year, Outlet 
 1. Designed a multi-section interactive dashboard using Excel.
 
 2. Organized the dashboard into logical sections for clear interpretation:
+
            Header Section: Includes total sales, total items sold, average sales, and average rating.
   
-           Filters Pane: Allows filtering by:
-    
-    Outlet Size (High, Medium, Small)
-    
-    Outlet Location (Tier 1, Tier 2, Tier 3)
-    Item Type (categories like Baked Goods, Frozen Foods, etc.)
-  Visualizations Section: Includes charts and graphs for detailed analysis.
+           Filters Pane allows filtering by: Outlet Size (High, Medium, Small); Outlet Location (Tier 1, Tier 2, Tier 3); Item Type (categories like Baked Goods, Frozen Foods, etc.)
+   
+           Visualizations Section: Includes charts and graphs for detailed analysis.
+
+
 2. Visualizations Created
 Total Sales by Fat Content:
 Created a pie chart to display the proportion of sales from Regular and Low-Fat items.
