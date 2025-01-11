@@ -9,15 +9,14 @@ https://docs.google.com/spreadsheets/d/1uGxTXafzFKartW9kdyUFadRLTpjuxaFc/edit?us
 Item Fat Content, Item Identifier, Item Type, Outlet Establishment Year, Outlet Identifier, Outlet Location Type, Outlet Size, Outlet Type, Item Visibility, Item Weight, Sales, Rating.
 
 ## Worked On:
-1. Dashboard Layout and Structure
+**1. Dashboard Layout and Structure**
 
-A. Designed a multi-section interactive dashboard using Excel.
+1. Designed a multi-section interactive dashboard using Excel.
 
-B. Organized the dashboard into logical sections for clear interpretation:
+2. Organized the dashboard into logical sections for clear interpretation:
+           Header Section: Includes total sales, total items sold, average sales, and average rating.
   
-  Header Section: Includes total sales, total items sold, average sales, and average rating.
-  
-  Filters Pane: Allows filtering by:
+           Filters Pane: Allows filtering by:
     
     Outlet Size (High, Medium, Small)
     
